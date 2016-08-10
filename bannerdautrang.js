@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://www.facebook.com/vatlieuchiulua125' target='_blank'><img src='https://drive.google.com/file/d/0B9toPYMXdkoAUmdLQzRMWkxBbE0/preview' width='500px'/><br/>Xây lò công nghiệp chất lượng cao</a>. vơi cong ty Tân Gia Định. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://www.facebook.com/vatlieuchiulua125' target='_blank'><img src='https://googledrive.com/host/0B9toPYMXdkoAUmdLQzRMWkxBbE0' width='500px'/><br/>Xây lò công nghiệp chất lượng cao</a>. vơi cong ty Tân Gia Định. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
