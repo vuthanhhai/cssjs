@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://www.facebook.com/kyo.vu.129' target='_blank'><img src='https://drive.google.com/file/d/0B9toPYMXdkoAUmdLQzRMWkxBbE0/view?usp=sharing' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://www.facebook.com/kyo.vu.129' target='_blank'><img src='https://lh6.googleusercontent.com/lZe41XnE_LUKmTIT0XgJr5r0wVzDIvdYty_YrXb0FDA366PzbRQavOC_4DH-sJBbJMGkhPh-xRiHZOA=w1920-h979-rw' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
